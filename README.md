@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiaminzhudd
 - 👀 I’m interested in finding good food to eat
-- 🌱 I’m currently learning to deploy an app with spinnaker
+- 🌱 I’m currently learning about rate limiters
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: slack
 
