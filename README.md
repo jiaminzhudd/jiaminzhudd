@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiaminzhudd
 - 👀 I’m interested in finding good food to eat
-- 🌱 I’m currently learning about how to write integration tests
+- 🌱 I’m currently learning about iguazu client
 - 💞️ I’m looking to girue how design best practices
 - 📫 How to reach me: slack
 
