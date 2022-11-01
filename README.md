@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jiaminzhudd
 - 👀 I’m interested in finding good food to eat
-- 🌱 I’m currently learning about caches
-- 💞️ I’m looking to girue how design best practices
+- 🌱 I’m currently learning about retries and cicuit breakers
+- 💞️ I’m building a system that translates POS data
 - 📫 How to reach me: slack
 
 <!---
