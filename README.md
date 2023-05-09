@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jiaminzhudd
 - 👀 I’m interested in finding good food to eat
-- 🌱 I’m currently learning about nexla pipelines
-- 💞️ I’m building a system that translates POS data
-- 📫 How to reach me: slack
+- 🌱 I’m currently learning about baseline skus
+- 💞️ I’m building a snowflake table to hold Xray execution data
+- 📫 How to reach me: slack 
 
 <!---
 jiaminzhudd/jiaminzhudd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
