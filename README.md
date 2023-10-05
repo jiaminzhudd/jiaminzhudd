@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiaminzhudd
 - 👀 I’m interested in finding good food to eat
-- 🌱 I’m currently learning about baseline skus
+- 🌱 I’m currently learning about json attribute type serialization
 - 💞️ I’m building a retail catalog and inventory open api flow
 - 📫 How to reach me: slack 
 
